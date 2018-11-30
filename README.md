@@ -1,2 +1,0 @@
-# Zenthai
-Zenthai Shiatsu website
